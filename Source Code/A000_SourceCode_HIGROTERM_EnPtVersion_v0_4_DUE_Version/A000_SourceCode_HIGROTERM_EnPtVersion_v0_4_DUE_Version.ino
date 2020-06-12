@@ -4,6 +4,22 @@
      at the University of Brasília, Brasília-DF-Brazil.
      Current version: 0.4
     ===============================
+    Licensing:
+    The code contained here is released under MIT license. 
+    But this code do use external libraries that are licensed under different licenses. For that matter,
+    a list of the other licenses is presented below:
+      -CC BY-NC-SA 3.0
+      -GNU GENERAL PUBLIC LICENSE
+      -GNU LESSER GENERAL PUBLIC LICENSE
+      -MIT LICENSE
+      -Modified BSD
+    The license of each library is stated after the library declaration in the code, above.
+    To the best of the author's knowledge, these are the licenses involved in the current system.
+    Before making any use of the HIGROTERM system, the user should check if the intended use comply with the
+    restrictions predicted by each license.
+    In particular, we highlight the CC BY-NC-SA 3.0, associated with the UTFT.h and URTouch.h libraries, that
+    does not allow commercial use.
+    ===============================
     Version 0.1:
     - Release version;
     Version 0.2:
@@ -42,10 +58,6 @@
     -This sketch uses parts of "Simple data logger example" from SdFat.h library. You can find it in  https://github.com/greiman/SdFat/archive/master.zip
 */
 
-//Since UTFT and URTouch libraries use BY-NC-SA Version 3.0, this software may be released only under BY-NC-SA Version 3.0 or later
-//https://creativecommons.org/licenses/by-nc-sa/3.0/
-//https://creativecommons.org/licenses/by-nc-sa/4.0/
-
 
 //=========== Importing libraries
 #include <UTFT.h> //CC BY-NC-SA 3.0
@@ -55,8 +67,8 @@
 #include <uRTCLib.h>//GNU LESSER GENERAL PUBLIC LICENSE
 #include <Wire.h> //GNU GENERAL PUBLIC LICENSE
 #include <DHT.h> //MIT License
-#include <avr/dtostrf.h> //Necessary so this code can be used in Arduino DUE as well, in which the dtostrf.h is not natively available
-#include <avr/pgmspace.h> //Necessary in order to plot bitmaps in Arduinos other than Arduino Due
+#include <avr/dtostrf.h> //Modified BSD - Necessary so this code can be used in Arduino DUE as well, in which the dtostrf.h is not natively available
+#include <avr/pgmspace.h> //Modified BSD - Necessary in order to plot bitmaps in Arduinos other than Arduino Due
 
 //=========== DHT definitions
 #define DHTPIN1 8 //Sensor 1 pin
