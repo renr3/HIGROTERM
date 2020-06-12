@@ -7,4 +7,7 @@ The HIGROTERM source code itself is licensed under the MIT license. However, the
 
 Finally, for further guidance regarding the source code and libraries, please refer to the Documentation folder, into which you will find a brief explanation about the source code structure, and the libraries used by the HIGROTERM source code, as well as the links to download them and the license under which they are released.
 
+
+====
+
 Renan Rocha Ribeiro
