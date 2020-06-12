@@ -1,5 +1,7 @@
 # HIGROTERM
-Official repository of the open-source HIGROTERM system for laboratory monitoring of temperature and humidity
+This is the official repository of the open-source HIGROTERM system for laboratory monitoring of temperature and humidity.
+
+Any scientific publications regarding HIGROTERM will be also made available here, wheter in full text or reference links.
 
 The HIGROTERM system is an open-source temperature and humidity system developed at the Laboratory of Material Testing at the Department of Civil and Environmental Engineering of the University of Brasília.
 
