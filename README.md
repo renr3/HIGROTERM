@@ -3,6 +3,10 @@ This is the official repository of the open-source HIGROTERM system for laborato
 
 Any scientific publications regarding HIGROTERM will be also made available here, whether in full text or reference links.
 
+If you find HIGROTERM useful for your scientific work, or if you have used HIGROTERM in some way, consider citing the following references:
+
+  1. HIGROTERM repoitory on GitHub, using its DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5525381.svg)](https://doi.org/10.5281/zenodo.5525381)
+
 The HIGROTERM system is an open-source temperature and humidity system developed at the Laboratory of Material Testing at the Department of Civil and Environmental Engineering of the University of Brasília.
 
 In order to use the source code in your hardware, please access the "Source Code" folder and access the "A000_SourceCode_HIGROTERM_EnPtVersion_v0_4_DUE_Version", in which all the source .ino files are available, as well as two C files containing icon and fonts definition. The files in the "Documentation" folder will help you to understand the source code structure and to install the necessary libraries to upload the sketch in your Arduino.
