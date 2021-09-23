@@ -3,9 +3,9 @@ This is the official repository of the open-source HIGROTERM system for laborato
 
 Any scientific publications regarding HIGROTERM will be also made available here, whether in full text or reference links.
 
-If you find HIGROTERM useful for your scientific work, or if you have used HIGROTERM in some way, consider citing the following references:
+If you find HIGROTERM useful for your scientific work, or if you have used HIGROTERM in some way, consider citing on related publications the following references:
 
-  1. HIGROTERM repoitory on GitHub, using its DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5525381.svg)](https://doi.org/10.5281/zenodo.5525381)
+  1. **HIGROTERM repository on GitHub**: Rocha Ribeiro, R. (2021). renr3/HIGROTERM: First release (v0.1). Zenodo. https://doi.org/10.5281/zenodo.5525381 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5525381.svg)](https://doi.org/10.5281/zenodo.5525381)
 
 The HIGROTERM system is an open-source temperature and humidity system developed at the Laboratory of Material Testing at the Department of Civil and Environmental Engineering of the University of Brasília.
 
