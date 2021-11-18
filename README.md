@@ -5,7 +5,7 @@ Any scientific publications regarding HIGROTERM will be also made available here
 
 If you find HIGROTERM useful for your scientific work, or if you have used HIGROTERM in some way, consider citing the the following references:
 
-  1. R. Rocha Ribeiro, E. Bauer, and R. Lameiras, “HIGROTERM: An Open-Source and Low-Cost Temperature and Humidity Monitoring System for Laboratory Applications”, <em>Inventions</em>, vol. 6, no. 4, p. 84, Nov. 2021.
+  1. R. Rocha Ribeiro, E. Bauer, and R. Lameiras, “HIGROTERM: An Open-Source and Low-Cost Temperature and Humidity Monitoring System for Laboratory Applications”, <em>Inventions</em>, vol. 6, no. 4, p. 84, Nov. 2021. https://doi.org/10.3390/inventions6040084 [![DOI](https://zenodo.org/badge/DOI/10.3390/inventions6040084.svg)](https://doi.org/10.3390/inventions6040084)
   2. **HIGROTERM repository on GitHub**: Rocha Ribeiro, R. (2021). renr3/HIGROTERM: First release (v0.1). Zenodo. https://doi.org/10.5281/zenodo.5525381 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5525381.svg)](https://doi.org/10.5281/zenodo.5525381)
 
 The HIGROTERM system is an open-source temperature and humidity system developed at the Laboratory of Material Testing at the Department of Civil and Environmental Engineering of the University of Brasília.
